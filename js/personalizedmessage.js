@@ -16,7 +16,7 @@ message = {
     'papa': "Dawg you're the best dad in the whole wide world. You told me since I was young that I would realize even more so as I got older, and you were right. I appreciate everything you did for me to make me the man I am today. Love you.",
     'mormor': "You are the best mormor in the world. I appreciate you so much. Soon enough we will get to see each other again! I am looking forward to it very much. I hope you are doing good and staying safe. I miss and love you so much.",
     'ana': "Have a good one bish",
-    'hannah': "Have a fucking good ass day bish. Hope you and the fam are doing great and staying safe. I STAN THE NASSERIS",
+    'hannah': "Have a fucking good ass day bruh. Hope you and the fam are doing great and staying safe. I STAN THE NASSERIS",
     'karen': "Thank you for becoming a second mom to me. I really can't express enough how grateful I am to be here and how much I appreciate all the extra you do for me and the boys. You're the best."
 };
 
