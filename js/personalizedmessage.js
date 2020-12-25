@@ -8,7 +8,8 @@ names = {
     'papa': ' Papa & Joy',
     'ana': ' Ana',
     'hannah': ' Hannah',
-    'karen': ' Karen'
+    'karen': ' Karen',
+    'annie': ' Annie'
 };
 message = {
     'theboys': "Hope ya'll have a great day and an even better new years. More life to my cucks",
@@ -17,7 +18,8 @@ message = {
     'mormor': "You are the best mormor in the world. I appreciate you so much. Soon enough we will get to see each other again! I am looking forward to it very much. I hope you are doing good and staying safe. I miss and love you so much.",
     'ana': "Have a good one bish",
     'hannah': "Have a fucking good ass day bruh. Hope you and the fam are doing great and staying safe. I STAN THE NASSERIS",
-    'karen': "Thank you for becoming a second mom to me. I really can't express enough how grateful I am to be here and how much I appreciate all the extra you do for me and the boys. You're the best."
+    'karen': "Thank you for becoming a second mom to me. I really can't express enough how grateful I am to be here and how much I appreciate all the extra you do for me and the boys. You're the best.",
+    'annie': "Hope you are doing great and staying safe! I miss you, Mormor, and Sweden. Hope to have the opportunity to visit again soon so we can catch up. Hope you have a great new years & 2021!!"
 };
 
 to_name = names[to];
